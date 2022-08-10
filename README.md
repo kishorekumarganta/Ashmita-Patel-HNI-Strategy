@@ -328,6 +328,33 @@ FSL =  FINAL STOP LOSS
 
 
 
+```
+BUY  SIDE:
+2 LOTS BUY AT TRIGGER PRICE 
+2 Lot Because we trail one Lot
+
+BUY  ENTRY = 2 DAYS HIGHEST HIGH + 0.15% = 23458.1
+For Excel, Use  =high*1.0015
+
+TARGET = ENTRY PRICE + 1.5% =  23809.9
+For Excel, Use  =high*1.015
+
+MONETARY STOP LOSS =MSL = ENTRY - 1.5% = 20468.42
+For Excel, Use  =ENTRY*0.98
+
+TECHNICAL STOP LOSS=TSL = 2DLL - 0.15% = 19660.47
+For Excel, Use  =2DLL*0.9985
+
+
+FINAL STOP LOSS =FSL
+FSL IS HIGHER OF MSL AND TSL i.e. WHICH IS CLOSER TO ENTRY.
+For Excel, Use  =MAX(MSL,TSL)
+FSL = 20468.42
+```
+
+
+
+
 
 
  
