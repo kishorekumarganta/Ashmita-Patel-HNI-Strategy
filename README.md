@@ -142,6 +142,80 @@ Put Buy = 2DLL - 0.15%
 Put Sell = 2DHH + 0.15%
 ```
 
+```
+e.g.:
+
+Day 1 High = 21,016
+Day 2 High = 21,079
+
+Day 1 Low = 20,771
+Day 2 Low = 20,711
+
+# Mark the Highest High and the Lowest Low.
+Highest High = 21,079
+Lowest Low = 20,771
+
+# Day 3 is the Day we Trade
+# Collect the Spot Data
+
+```
+
+
+
+```
+Highest High = 21,079
+Lowest Low = 20,771
+```
+ 
+```
+# We will add Little Buffer
+
+Highest High *1.0015% Buffer =21,110.6
+Lowest Low * 1.0085% Buffer =20,679.95
+
+```
+
+
+```
+#Note: Use Mround(Cell,0.05) for Rounding in Excel
+```
+
+
+ ```
+
+(4) Final Strike Price =>(We take the Nearest)
+
+Call ATM = 21,100   ==> Mround(21079,100)
+Put ATM = 20,700    ==> Mround(20679,100)
+ ```
+ 
+ 
+ ```
+
+(5) Collect Data of Final Strike Price
+
+Call ATM 21100
+Day 1 High = 211 ,
+Day 2 High  =  189, 
+HH = Max(D1H,D2H)=211
+Day 1 Low  = 169, 
+Day 2 Low = 157,  
+LL= Min(D1L,D2L)=157
+
+
+Put ATM 20700
+Day 1 High = 242, 
+Day 2 High  =  221, 
+HH = 242
+Day 1 Low  = 179, 
+Day 2 Low = 170, 
+LL = 170
+
+```
+
+
+
+
 
 
 
