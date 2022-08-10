@@ -136,10 +136,10 @@ In Options, we look at Index Price, not Futures.
 
 ```
 # Logic
-Call Buy = 2DHH+0.15%
-Call Sell = 2DLL-0.15%
-Put Buy = 2DLL-0.15%
-Put Sell = 2DHH+0.15%
+Call Buy = 2DHH + 0.15%
+Call Sell = 2DLL - 0.15%
+Put Buy = 2DLL - 0.15%
+Put Sell = 2DHH + 0.15%
 ```
 
 
