@@ -381,11 +381,24 @@ AFTER DECIMAL,UP TO ONE DIGIT I'LL GO.
 I ONLY BUY STOCK WHEN IT IS GOING UP.
 I ONLY SHORT STOCK WHEN IT IS GOING DOWN.
 ```
+```
+Image 1
+https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/1.png?raw=true
+```
 
 
-(https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/1.png?raw=true)
 
- https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/1.png?raw=true
+```
+Image 2
+
+```
+
+
+
+```
+Image 3
+
+```
 
 
 
