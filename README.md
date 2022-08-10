@@ -484,6 +484,49 @@ https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/11.png
 ```
 
 
+```
+
+For Intraday, Everything will be the current week.
+
+Every Day We place eight orders like the below:
+```
+
+
+```
+Image 12 :
+
+https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/12.png
+```
+
+```
+Image 13 :
+
+https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/13.png
+```
+
+```
+Image 14 :
+
+https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/13.png
+```
+
+```
+Image 15 :
+
+https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/15.png
+
+```
+
+
+```
+High Spot with Buffer  we get by =Mround(B3*(1+$C$1),0.05)
+
+Low Spot with Buffer  we get by =Mround(B3*(1-$C$1),0.05)
+
+For Strikes for Nearest Hundred use  =Mround(Spotwithbuffer,100)
+
+```
+
 
 
 
