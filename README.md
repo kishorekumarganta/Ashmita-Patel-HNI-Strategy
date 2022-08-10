@@ -401,15 +401,17 @@ Target will always come in Price.
 ```
 
 
-
-
-
 ```
 Image 3
-
+https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/3.png
 
 ```
 
+
+```
+In step 4, Intraday buffer is 0.10
+Historical Data related to Strike get from the NSE site
+```
 
 
 
