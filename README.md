@@ -383,7 +383,7 @@ I ONLY SHORT STOCK WHEN IT IS GOING DOWN.
 ```
 
 
-
+![alt text](https://github.com/Ganta-Kishore-HNI-Strategy/Ganta-Kishore-HNI-Strategy/blob/[branch]/1.jpg?raw=true)
 
  
 
