@@ -114,6 +114,10 @@ The index has weekly options and so weekly expiry.
 
 
 
+```
+If the price goes above and breaks Two Days High, 
+It Signals that the Price is Trying to Rally up.
+```
 
 
 
