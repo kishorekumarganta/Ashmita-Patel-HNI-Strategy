@@ -95,6 +95,24 @@ Only ITM has Intrinsic Value.
 ***SO, OTM premium is only Time Value.
 ```
 
+```
+
+Contracts = Current Month / Next Month / Far Month
+
+Every Contract Expires on the Last Thursday of the Month. 
+If Holiday, Prepones to before day.
+
+The index has weekly options and so weekly expiry.
+
+```
+
+
+```
+1 Month = Current Week / Next Week / Final Expiry
+1 Week = Friday to Thursday
+```
+
+
 
 
 
