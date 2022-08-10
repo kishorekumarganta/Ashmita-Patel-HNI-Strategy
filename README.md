@@ -430,6 +430,23 @@ https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/5.png
 
 ```
 
+```
+Image 6:
+https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/6.png
+```
+
+```
+Logic: Whenever 2Days High Crossed, There is a high probability that it goes above. Also, I can say that it will not go below 2 Days Low.
+
+Similarly, whenever 2 Days Low Crossed, There is a high probability that it will go below. Also, I can say that it will not go above 2 Days High.
+```
+
+
+
+
+
+
+
 
 
 
