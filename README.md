@@ -214,7 +214,36 @@ LL = 170
 ```
 
 
+```
+There is no right or wrong in analysis.
+```
 
+```
+All Indicators are Lagging Indicators.
+```
+
+```
+A lot of people trade on Support and Resistance.
+
+Price will not go below Support Point.
+Price will not go Above Resistance Point.
+```
+
+```
+Always trade in Markets with Absolute Clarity.
+```
+
+```
+we can not predict the markets. No body can.
+14-15L Cr a Day Almost our Market Turn Over.
+we cannot predict how this 10 L Cr Behavior is in Tomorrow's market.
+```
+
+```
+One Day Before Prepare for all three Directions 
+= > Up, Down, Sideways
+I will not trade in Range-Bound Market.
+```
 
 
 
