@@ -65,7 +65,38 @@ PUT  Strike
 ```
 
 Every Strike has a Premium and is Calculated via Intrinsic Value and Time Value.
-```Premium = IV + TV```
+```
+Premium = IV + TV
+```
+
+
+```
+
+CALL IV = Spot - Strike
+
+PUT IV = Strike - Spot
+
+```
+
+```
+770 PUT IV = Strike - Spot = 770-759 = 11
+```
+
+```
+770 CALL IV = Spot - Strike =759 -770 = -11 
+IV Cannot be Negative, We Consider Negative IV as Zero.
+SO, IV of OTM and ATM is Zero
+```
+
+```
+Only ITM has Intrinsic Value.
+```
+```
+***SO, OTM premium is only Time Value.
+```
+
+
+
 
 
 
