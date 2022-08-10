@@ -394,10 +394,30 @@ https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/2.png
 
 
 ```
+P= Price
+TP = Trigger Price
+Entry and SL will always come in TP with me.
+Target will always come in Price.
+```
+
+
+
+
+
+```
 Image 3
+
 
 ```
 
+
+
+
+```
+Image 4
+
+
+```
 
 
 ****
