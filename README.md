@@ -64,6 +64,11 @@ PUT  Strike
 720	OTM
 ```
 
+Every Strike has a Premium and is Calculated via Intrinsic Value and Time Value.
+```Premium = IV + TV```
+
+
+
 
 
 ****
