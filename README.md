@@ -245,7 +245,67 @@ One Day Before Prepare for all three Directions
 I will not trade in Range-Bound Market.
 ```
 
+```
+(6) Calculations
 
+B.O. = Buy Option
+S.O. = Sell Option
+MSL= Monetary Stop Loss
+TSL = Technical Stop Loss
+```
+
+
+```
+Call Buy (Long)
+Expiry= May 2022 
+Strike= 21100
+Entry = B.O. =  2DHH + 10% =211*(1+10%)  = 232.1
+Our Entry = 
+Target = S.O. =  Entry +60% = 232.1*(1+60%)= 371.36
+MSL= Entry - 60% = 232.1*(1-60%) = 92.84
+TSL = 2DLL- 10% = 157*(1-10%)= 141.3
+Stop Loss = S.O. = Max(Msl,Tsl) = 141.3
+up==> (Underlying Price = up)  ==> (Premium Price = up)
+```
+
+```
+Call Sell (Short)
+Expiry= May 2022
+Strike= 21100
+Entry = S.O. = 2DLL-10% = 141.3
+Our Entry = 
+Target = B.O.  = Entry - 60% = 56.52
+MSL= Entry + 60% = 226.08
+TSL = 2DHH+10% = 232.10
+Stop Loss= B.O.  = Min(Msl,Tsl) = 226.08
+No up ==> Underlying Price = Down ==> Premium Price = Down
+```
+
+```
+Put Buy (Long)
+Expiry= May 2022
+Strike= 20700
+Entry = B.O. =  2DHH + 10% = 266.2
+Our Entry = 
+Target = S.O. =  Entry +60% = 425.92
+MSL= Entry - 60% = 106.48
+TSL = 2DLL- 10% = 153
+Stop Loss= S.O. = Max(Msl,Tsl) = 153
+Down ==> Underlying Price = Down  ==> Premium Price = Down
+```
+
+```
+Put Sell (Short)
+Expiry= May 2022
+Strike= 20700
+Entry = S.O. = 2DLL-10% = 153
+Our Entry = 
+Target = B.O.  = Entry - 60% = 61.2
+MSL= Entry + 60% = 244.8
+TSL = 2DHH+10% = 266.2
+Stop Loss= B.O.  = Min(Msl,Tsl) = 244.8
+No Down ==> Underlying Price = up ==>  Premium Price = Down
+```
 
 
 ****
