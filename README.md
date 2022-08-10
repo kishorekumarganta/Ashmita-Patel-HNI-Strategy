@@ -414,12 +414,24 @@ Historical Data related to Strike get from the NSE site
 ```
 
 
+```
+
+Image 4:
+
+https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/4.png
 
 ```
-Image 4
-
 
 ```
+
+Image 5:
+
+https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/5.png
+
+```
+
+
+
 
 
 ****
