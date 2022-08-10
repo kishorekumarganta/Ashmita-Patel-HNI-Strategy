@@ -120,7 +120,19 @@ It Signals that the Price is Trying to Rally up.
 ```
 
 
+```
+Price > 2DHH, Buy Call and Sell Put
+Price < 2DHH, Buy Put and Sell Call
+```
 
+```
+In Options, we look at Index Price, not Futures.
+```
+
+```
+2DHH=Two Days Higher High
+2DLL = Two Days Lower Low
+```
 
 
 
