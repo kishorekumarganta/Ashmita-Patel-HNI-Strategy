@@ -443,7 +443,45 @@ Similarly, whenever 2 Days Low Crossed, There is a high probability that it will
 
 
 
+```
+Image 7 :
 
+https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/7.png
+```
+
+```
+Image 8:
+
+https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/8.png
+```
+
+
+```
+
+We need both Current and Next Week's Data.
+
+we trade sell on Next Week because of more time value.
+```
+
+
+```
+Image 9 :
+
+https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/9.png
+```
+
+```
+Image 10 :
+
+https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/10.png
+```
+
+
+```
+Image 11 :
+
+https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/11.png
+```
 
 
 
