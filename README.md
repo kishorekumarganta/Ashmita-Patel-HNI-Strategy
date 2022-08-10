@@ -1,4 +1,4 @@
-# Ganta Kishore HNI Strategy Logic
+# HNI-Positional-Option-Strategy Logic
 
 ```
 Bullish = Buy  Call 
