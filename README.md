@@ -309,3 +309,31 @@ No Down ==> Underlying Price = up ==>  Premium Price = Down
 
 
 ****
+## Only Bank Nifty POSITIONAL System:
+
+```
+DATA:
+
+2 DAYS' HIGHEST HIGH = 23423
+2 DAYS LOWEST LOW =  22977
+( BUFFER = 0.15% )  TO AVOID A REVERSAL TRAP.
+
+STOP LOSS IS 1.50% i.e. ONE AND HALF PERCENT
+
+MSL =  MONETARY STOP LOSS
+TSL =  TECHNICAL STOP LOSS
+FSL =  FINAL STOP LOSS
+
+```
+
+
+
+
+
+
+
+
+
+****
+
+
