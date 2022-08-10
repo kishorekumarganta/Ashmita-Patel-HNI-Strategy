@@ -387,12 +387,10 @@ https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/1.png?
 ```
 
 
-
 ```
 Image 2
-
+https://github.com/kishorekumarganta/Ganta-Kishore-HNI-Strategy/blob/main/2.png
 ```
-
 
 
 ```
